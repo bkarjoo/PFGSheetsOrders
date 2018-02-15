@@ -1,3 +1,10 @@
+*.pyc
+*.json
+.gitattributes
+.gitignore
+/.git
+/.idea
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
